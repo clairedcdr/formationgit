@@ -1,3 +1,5 @@
+library(entrainementpackage)
+
 a <- function(x)
   {1 + ma_function_mieux(x)$maximum
 }
